@@ -1,0 +1,6 @@
+[flake8]
+exclude = 
+    djangoenv/*
+    .env
+max-line-length = 99
+ignore = F841,E501
